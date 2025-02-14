@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Groovy programming involving closures.  The `someMethod` function expects a closure but doesn't handle the potential for parameters within the closure.  The provided solution addresses this issue by correctly passing parameters to the closure.
